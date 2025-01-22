@@ -51,4 +51,4 @@ This project is a Streamlit application designed to analyze motor vehicle collis
 Deployment
 
 You can explore the live version of the application by visiting the following link:
-[Motor Vehicle Collision Dashboard - NYC][https://motor-vehicle-collision-in-new-york-city-zfxqyyriccc5qr6txpr8f.streamlit.app/]
+[Motor Vehicle Collision Dashboard - NYC](https://motor-vehicle-collision-in-new-york-city-zfxqyyriccc5qr6txpr8f.streamlit.app/)
