@@ -108,4 +108,4 @@ else:
 # Checkbox to display raw data
 if st.checkbox("Show Raw Data", False):
     st.subheader('Raw Data')
-    st.write(dat
+    st.write(data)
